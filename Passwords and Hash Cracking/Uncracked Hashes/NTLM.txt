@@ -1,0 +1,6 @@
+pedrobear:/bin/bash
+chicagobear:1009:aad3b435b51404eeaad3b435b51404ee:cb8538754ecafad5d2ae67ecc709f459:::
+
+cozybear:1008:aad3b435b51404eeaad3b435b51404ee:8c5f236d8d0e37ef9dc1d827044d0ad5:::
+
+teddybear:1010:aad3b435b51404eeaad3b435b51404ee:c55da69af31a31d7d8e0773c368f0da8:::

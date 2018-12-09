@@ -1,0 +1,9 @@
+chicagobear:ihateyou   ->NTLM
+?:doofus   ->NTLM
+?:w7zbyt    ->NTLM
+
+smokeybear:asdf   ->sha512
+cocobear:meatball  ->sha512
+
+bigbear:unbelievable   ->md5crypt
+girzzlybear:zxcasdqwe123   ->md5crypt

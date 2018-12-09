@@ -1,0 +1,8 @@
+yetibear:/bin/bash
+blackbear:$6$vLklyaUy$HavS8mKYsF0v8Om2XzcqPdwhwywQCzlUp6ZAq3INu9ejYik9BOj9/yzsPTMPy5SniYeWWVrIctg9pVnqdoTxG/:1003:1003:,,,:/home/
+blackbear:/bin/bash
+fozziebear:$6$pT7CDuxB$hpm1p.8c4Q9.dXtljrLhWZ.i4kc2TA5G9xGR.v0RBdJKVz7E9p9esZZjN8Ng6SjlMLPTI7L86o7iXixn2.uYy/:1004:1004:,,,:/home/
+fozziebear:/bin/bash
+pedrobear:$6$uOhp6Hr0$lIZE8oXgf67eZkYNj8VGM1wpbjCiL6xEvuv6rmXweYM/faFKYyRBxW7Dc1X7vgEiNiX3uwfy7HPHBB/wCWNXE0:1005:1005:,,,:/home/
+cocobear:/bin/bash
+yetibear:$6$/.446T8c$OTqZH8903n6LhUBKpVNtIQQf.so0EprZAym1IUeOLVsZKPMBwb5OgGeLkhJ4xKWLavFrhhuq5N1OEyCFrig.F.:1002:1002:,,,:/home/

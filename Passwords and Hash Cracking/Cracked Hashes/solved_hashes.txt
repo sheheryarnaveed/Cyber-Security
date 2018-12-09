@@ -1,0 +1,16 @@
+(MD5) yogibear:L1verpool!
+(MD5) bigbear:unbelievable
+(MD5) grizzlybear:zxcasdqwe123
+(MD5) pandabear:vulmjz
+(MD5) yolandabear:kx7yy4
+(MD5) fancybear:sx708n
+(MD5) jojobear:wmOhL3u4J
+(SHA512) smokeybear:asdf
+(SHA512) cocobear:meatball
+(SHA512) yetibear:06mulesystems
+(SHA512) blackbear:mzpixl
+(SHA512) fozziebear:320299
+(SHA512) pedrobear:R6iLFUgG
+(NTLM) cozybear:doofus
+(NTLM) chicagobear:ihateyou
+(NTLM) teddybear:w7zbyt

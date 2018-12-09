@@ -1,0 +1,10 @@
+fancybear:$1$RgXw6iaq$PNNEqOsiIMKxLSOHvmkK51:1008:1008:,,,:/home/fancybear:/bin/bash
+
+jojobear:$1$9YPIeyVm$jygTtWr33r.eY..C5JD/31:1009:1009:,,,:/home/jojobear:/bin/bash
+
+yogibear:$1$4mcBroGf$v8ApneilDTE18VgvWDBiE.:1003:1003:,,,:/home/yogibear:/bin/
+grizzlybear:/bin/bash
+pandabear:$1$eFeGh1B.$ysteI0kbYwHAaJYg7gPyo/:1006:1006:,,,:/home/pandabear:/bin/bash
+
+yolandabear:$1$QZGinKKl$mjiuTcAIdf6bfxMKTTkNw.:1007:1007:,,,:/home/yolandabear:/bin/bash
+
