@@ -1,5 +1,5 @@
-##  **Computer System Security-COMP-0116-Tufts University**
-This repository contains the assignments given to me in the Computer System Security Course(COMP-0116) in Tufts University, and my solutions to those assignments. There were pretty fun activities that I did in this course as my assignments making this course both more productive and enjoyable for me. The course covers a wide arena of common security issues and ways to tackle those.
+##  **Computer System Security-COMP-0116**
+This repository contains the assignments given to me in the Computer System Security Course(COMP-0116),taught by Professor Ming Chow, in Tufts University, and my solutions to those assignments. There were pretty fun activities that I did in this course as my assignments making this course both more productive and enjoyable for me. The course covers a wide arena of common security issues and ways to tackle those.
 
 ### Gains:
 Some of the many things(tools, services, concepts, terminology etc. etc.) that I learned from the course especially its assignments include the following:
