@@ -19,7 +19,7 @@ Some of the many things(tools, services, concepts, terminology etc. etc.) that I
 - John The Ripper and hashcat
 - Hashes: MD5, SHA256, SHA512, NTLM
 
-  <em>....much more!<em>
+  <em>....much more!</em>
 
 
 ### Insights
