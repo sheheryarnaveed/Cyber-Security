@@ -18,6 +18,7 @@ Some of the many things(tools, services, concepts, terminology etc. etc.) that I
 - Kali Linux
 - John The Ripper and hashcat
 - Hashes: MD5, SHA256, SHA512, NTLM
+- Static and Dynamic Analysis
 
   <em>....much more!</em>
 
